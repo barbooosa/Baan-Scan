@@ -1,0 +1,37 @@
+Sistema de controle de acesso- Logins(Finalizado)
+Visitantes Cadastrados- Info visitantes(Finalizado)
+Cadastro Visitante(Finalizado)
+	.CPF
+	.Nome completo
+	.Endereço
+	.Telefone
+	.Empresa(Crachá ou não)
+	.Autorizador
+		.Número de ordem
+	.Veículo? Sim/Não
+Dados pessoais do oficial(Finalizado)
+	.Nome completo
+	.Nome de guerra
+	.Unidade
+	.Email
+	.Posto
+Veículos cadastrados(Finalizado)
+	.(Data inicial/Final, Horário Inicial/Final)
+	.Placa
+	.Renavam(Responsável, Modelo, Município)
+Registro de entrada e saída(Sugestão)
+	.Efetivo(Data inicial/Final, Horário Inicial/Final)
+	.Carro
+       {
+	Nome do oficial
+	Data de entrada e saída
+	Veículo
+		}
+ 
+#################
+Criptografia de dados com python
+
+
+Sugestão:
+	Pré Cadastro de visitantes
+	
